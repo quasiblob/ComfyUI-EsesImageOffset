@@ -3,6 +3,10 @@
 ![Eses Image Offset Node Screenshot](docs/image_offset.png)
 
 
+> [!CAUTION]
+> Before dowloading and using the contents of this repository, please read the LICENSE.txt and the disclaimer - Thank you!
+
+
 ## Description
 
 The 'Eses Image Offset' node offers basic image offsetting capabilities within ComfyUI. It allows shifting image and mask content horizontally and/or vertically, with an option to wrap content around the canvas edges for a tiling effect. 
