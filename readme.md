@@ -4,8 +4,9 @@
 
 
 > [!CAUTION]
-> Before dowloading and using the contents of this repository, please read the LICENSE.txt and the disclaimer.
-> If you do not respect my efforts, then these tool may not be available in the future (I will report misuse) - Thank you!
+> Before downloading and using the contents of this repository, please review the LICENSE.txt and the disclaimer.
+> I kindly ask that you respect the licensing terms and the effort put into these tools to ensure their 
+> continued availability for everyone. Thank you!
 
 
 ## Description
@@ -41,7 +42,7 @@ The 'Eses Image Offset' node offers basic image offsetting capabilities within C
 
 2.  **Clone this repository:**
     ```
-    git clone https://github.com/quasiblob/EsesImageOffset.git
+    git clone https://github.com/quasiblob/ComfyUI-EsesImageOffset.git
     ```
 
 3.  **Restart ComfyUI:**
@@ -54,7 +55,8 @@ The 'Eses Image Offset' node offers basic image offsetting capabilities within C
 ComfyUI-EsesImageOffset/
 ├── init.py                     # Main module defining the custom node.
 ├── image_offset.py             # The Python file containing the node logic.
-└── README.md                   # This file.
+├── LICENSE.txt                 # You should read this before using this node.
+├── README.md                   # This file.
 └── docs/
 ```
 
@@ -106,7 +108,11 @@ Eses Nodes/Image
 
 ## Update History
 
-* 2025.6.26 Version 1.0.0 released
+* **2025.7.10 Version 1.1.1** minor updates to documentation
+
+* **2025.7.1 Version 1.1.0** minor updates
+
+* **2025.6.26 Version 1.0.0** released
 
 
 ## ⚠️Disclaimer⚠️

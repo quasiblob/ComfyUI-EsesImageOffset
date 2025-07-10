@@ -12,7 +12,8 @@
 # specified offset, and outputs the processed image, mask, the
 # applied X and Y offsets, and a descriptive info string.
 #
-# Version: 1.0.0
+# Version: 1.1.1
+#
 # License: See LICENSE.txt
 #
 # ==========================================================================
